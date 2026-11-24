@@ -81,7 +81,7 @@ A curated comparison of leading managed Web3 storage gateways, pinning providers
 
 ## 💻 Open-Source GitHub Projects
 
-Curated list of open-source decentralized storage protocols, distributed object storage engines, P2P filesystems, and Web3 workspace runtimes. **Sorted in descending order by GitHub Stars_Count**.
+Curated list of open-source decentralized storage protocols, distributed object storage engines, P2P filesystems, and Web3 workspace runtimes. **Sorted in descending order by GitHub_Stars_Count**.
 
 - **[Syncthing](https://github.com/syncthing/syncthing)** [![GitHub_Stars](https://img.shields.io/github/stars/syncthing/syncthing?style=social&color=white)](https://github.com/syncthing/syncthing/stargazers)  
   Open-source peer-to-peer continuous file synchronization program replacing proprietary sync and cloud services with sovereign, cryptographic device-to-device transfers.
