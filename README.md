@@ -81,87 +81,87 @@ A curated comparison of leading managed Web3 storage gateways, pinning providers
 
 ## 💻 Open-Source GitHub Projects
 
-Curated list of open-source decentralized storage protocols, distributed object storage engines, P2P filesystems, and Web3 workspace runtimes. **Sorted in descending order by GitHub Star count**.
+Curated list of open-source decentralized storage protocols, distributed object storage engines, P2P filesystems, and Web3 workspace runtimes. **Sorted in descending order by GitHub Stars_Count**.
 
-- **[Syncthing](https://github.com/syncthing/syncthing)** [![GitHub stars](https://img.shields.io/github/stars/syncthing/syncthing?style=social&color=white)](https://github.com/syncthing/syncthing/stargazers)  
+- **[Syncthing](https://github.com/syncthing/syncthing)** [![GitHub_Stars](https://img.shields.io/github/stars/syncthing/syncthing?style=social&color=white)](https://github.com/syncthing/syncthing/stargazers)  
   Open-source peer-to-peer continuous file synchronization program replacing proprietary sync and cloud services with sovereign, cryptographic device-to-device transfers.
 
-- **[MinIO](https://github.com/minio/minio)** [![GitHub stars](https://img.shields.io/github/stars/minio/minio?style=social&color=white)](https://github.com/minio/minio/stargazers)  
+- **[MinIO](https://github.com/minio/minio)** [![GitHub_Stars](https://img.shields.io/github/stars/minio/minio?style=social&color=white)](https://github.com/minio/minio/stargazers)  
   High-performance, Kubernetes-native, S3-compatible decentralized and distributed object storage engine engineered for cloud-native architectures and sovereign private clouds.
 
-- **[SeaweedFS](https://github.com/seaweedfs/seaweedfs)** [![GitHub stars](https://img.shields.io/github/stars/seaweedfs/seaweedfs?style=social&color=white)](https://github.com/seaweedfs/seaweedfs/stargazers)  
+- **[SeaweedFS](https://github.com/seaweedfs/seaweedfs)** [![GitHub_Stars](https://img.shields.io/github/stars/seaweedfs/seaweedfs?style=social&color=white)](https://github.com/seaweedfs/seaweedfs/stargazers)  
   Fast distributed storage system for blobs, objects, files, and data lakes designed to scale to billions of files with O(1) disk access, S3 API compatibility, and tiering to cloud/Web3 backends.
 
-- **[Ceph](https://github.com/ceph/ceph)** [![GitHub stars](https://img.shields.io/github/stars/ceph/ceph?style=social&color=white)](https://github.com/ceph/ceph/stargazers)  
+- **[Ceph](https://github.com/ceph/ceph)** [![GitHub_Stars](https://img.shields.io/github/stars/ceph/ceph?style=social&color=white)](https://github.com/ceph/ceph/stargazers)  
   Industry-standard open-source distributed object, block, and file storage platform delivering massive scalability and POSIX/S3 interfaces without single points of failure.
 
-- **[IPFS Kubo](https://github.com/ipfs/kubo)** [![GitHub stars](https://img.shields.io/github/stars/ipfs/kubo?style=social&color=white)](https://github.com/ipfs/kubo/stargazers)  
+- **[IPFS Kubo](https://github.com/ipfs/kubo)** [![GitHub_Stars](https://img.shields.io/github/stars/ipfs/kubo?style=social&color=white)](https://github.com/ipfs/kubo/stargazers)  
   Flagship open-source Go implementation of the InterPlanetary File System (IPFS) providing content-addressed P2P file distribution, Bitswap block exchange, DHT routing, and HTTP gateways.
 
-- **[Iroh](https://github.com/n0-computer/iroh)** [![GitHub stars](https://img.shields.io/github/stars/n0-computer/iroh?style=social&color=white)](https://github.com/n0-computer/iroh/stargazers)  
+- **[Iroh](https://github.com/n0-computer/iroh)** [![GitHub_Stars](https://img.shields.io/github/stars/n0-computer/iroh?style=social&color=white)](https://github.com/n0-computer/iroh/stargazers)  
   High-throughput, next-generation peer-to-peer data sync and content-addressed blob streaming library written in Rust using QUIC hole punching and BLAKE3 verified streaming.
 
-- **[Nostr Protocol](https://github.com/nostr-protocol/nostr)** [![GitHub stars](https://img.shields.io/github/stars/nostr-protocol/nostr?style=social&color=white)](https://github.com/nostr-protocol/nostr/stargazers)  
+- **[Nostr Protocol](https://github.com/nostr-protocol/nostr)** [![GitHub_Stars](https://img.shields.io/github/stars/nostr-protocol/nostr?style=social&color=white)](https://github.com/nostr-protocol/nostr/stargazers)  
   Minimalist, censorship-resistant, decentralized communication and sovereign data dissemination protocol utilizing simple cryptographic signatures and distributed relays.
 
-- **[AT Protocol](https://github.com/bluesky-social/atproto)** [![GitHub stars](https://img.shields.io/github/stars/bluesky-social/atproto?style=social&color=white)](https://github.com/bluesky-social/atproto/stargazers)  
+- **[AT Protocol](https://github.com/bluesky-social/atproto)** [![GitHub_Stars](https://img.shields.io/github/stars/bluesky-social/atproto?style=social&color=white)](https://github.com/bluesky-social/atproto/stargazers)  
   Social networking and decentralized data protocol created by Bluesky featuring user-controlled cryptographic repositories, federated data hosting, and content-addressed blob storage.
 
-- **[OrbitDB](https://github.com/orbitdb/orbitdb)** [![GitHub stars](https://img.shields.io/github/stars/orbitdb/orbitdb?style=social&color=white)](https://github.com/orbitdb/orbitdb/stargazers)  
+- **[OrbitDB](https://github.com/orbitdb/orbitdb)** [![GitHub_Stars](https://img.shields.io/github/stars/orbitdb/orbitdb?style=social&color=white)](https://github.com/orbitdb/orbitdb/stargazers)  
   Serverless, peer-to-peer database engine written for Web3 applications, built on IPFS for storage and IPLD for data structure synchronization using CRDTs.
 
-- **[anacrolix/torrent](https://github.com/anacrolix/torrent)** [![GitHub stars](https://img.shields.io/github/stars/anacrolix/torrent?style=social&color=white)](https://github.com/anacrolix/torrent/stargazers)  
+- **[anacrolix/torrent](https://github.com/anacrolix/torrent)** [![GitHub_Stars](https://img.shields.io/github/stars/anacrolix/torrent?style=social&color=white)](https://github.com/anacrolix/torrent/stargazers)  
   Full-featured open-source BitTorrent client package and peer-to-peer data streaming implementation in Go with support for magnet URIs, DHT, and WebTorrent extensions.
 
-- **[Garage](https://github.com/deuxfleurs-org/garage)** [![GitHub stars](https://img.shields.io/github/stars/deuxfleurs-org/garage?style=social&color=white)](https://github.com/deuxfleurs-org/garage/stargazers)  
+- **[Garage](https://github.com/deuxfleurs-org/garage)** [![GitHub_Stars](https://img.shields.io/github/stars/deuxfleurs-org/garage?style=social&color=white)](https://github.com/deuxfleurs-org/garage/stargazers)  
   Lightweight, fault-tolerant, geo-distributed S3-compatible object store engineered for self-hosting across heterogeneous low-power hardware and self-managed sovereign infrastructures.
 
-- **[Urbit](https://github.com/urbit/urbit)** [![GitHub stars](https://img.shields.io/github/stars/urbit/urbit?style=social&color=white)](https://github.com/urbit/urbit/stargazers)  
+- **[Urbit](https://github.com/urbit/urbit)** [![GitHub_Stars](https://img.shields.io/github/stars/urbit/urbit?style=social&color=white)](https://github.com/urbit/urbit/stargazers)  
   Clean-slate peer-to-peer personal server stack and deterministic Web3 operating system implementing cryptographic identity, networking, and a sovereign functional execution environment (`Nock`/`Hoon`).
 
-- **[Storj Node & Core](https://github.com/storj/storj)** [![GitHub stars](https://img.shields.io/github/stars/storj/storj?style=social&color=white)](https://github.com/storj/storj/stargazers)  
+- **[Storj Node & Core](https://github.com/storj/storj)** [![GitHub_Stars](https://img.shields.io/github/stars/storj/storj?style=social&color=white)](https://github.com/storj/storj/stargazers)  
   Open-source codebase powering the Storj decentralized cloud network, featuring client-side AES-256-GCM encryption, Reed-Solomon erasure coding, and distributed uplink libraries.
 
-- **[Filecoin Lotus](https://github.com/filecoin-project/lotus)** [![GitHub stars](https://img.shields.io/github/stars/filecoin-project/lotus?style=social&color=white)](https://github.com/filecoin-project/lotus/stargazers)  
+- **[Filecoin Lotus](https://github.com/filecoin-project/lotus)** [![GitHub_Stars](https://img.shields.io/github/stars/filecoin-project/lotus?style=social&color=white)](https://github.com/filecoin-project/lotus/stargazers)  
   Reference Go implementation of the Filecoin decentralized storage protocol supporting cryptographic storage verification (PoRep/PoSt), storage deal pipelines, and Filecoin Virtual Machine (FVM) smart contracts.
 
-- **[Hypercore Protocol](https://github.com/holepunchto/hypercore)** [![GitHub stars](https://img.shields.io/github/stars/holepunchto/hypercore?style=social&color=white)](https://github.com/holepunchto/hypercore/stargazers)  
+- **[Hypercore Protocol](https://github.com/holepunchto/hypercore)** [![GitHub_Stars](https://img.shields.io/github/stars/holepunchto/hypercore?style=social&color=white)](https://github.com/holepunchto/hypercore/stargazers)  
   Secure, append-only distributed P2P log and cryptographic data structure powering the Holepunch/Pear Runtime peer-to-peer application ecosystem.
 
-- **[Peergos](https://github.com/Peergos/Peergos)** [![GitHub stars](https://img.shields.io/github/stars/Peergos/Peergos?style=social&color=white)](https://github.com/Peergos/Peergos/stargazers)  
+- **[Peergos](https://github.com/Peergos/Peergos)** [![GitHub_Stars](https://img.shields.io/github/stars/Peergos/Peergos?style=social&color=white)](https://github.com/Peergos/Peergos/stargazers)  
   Open-source Web3 personal cloud operating system and post-quantum end-to-end encrypted storage, document editing, and social suite built on IPFS with metadata privacy.
 
-- **[IPFS Cluster](https://github.com/ipfs-cluster/ipfs-cluster)** [![GitHub stars](https://img.shields.io/github/stars/ipfs-cluster/ipfs-cluster?style=social&color=white)](https://github.com/ipfs-cluster/ipfs-cluster/stargazers)  
+- **[IPFS Cluster](https://github.com/ipfs-cluster/ipfs-cluster)** [![GitHub_Stars](https://img.shields.io/github/stars/ipfs-cluster/ipfs-cluster?style=social&color=white)](https://github.com/ipfs-cluster/ipfs-cluster/stargazers)  
   Distributed pinset orchestration daemon for managing, allocating, and replicating content across an autonomous swarm of self-hosted IPFS nodes via Raft or CRDT consensus.
 
-- **[Ethereum Swarm Bee](https://github.com/ethersphere/bee)** [![GitHub stars](https://img.shields.io/github/stars/ethersphere/bee?style=social&color=white)](https://github.com/ethersphere/bee/stargazers)  
+- **[Ethereum Swarm Bee](https://github.com/ethersphere/bee)** [![GitHub_Stars](https://img.shields.io/github/stars/ethersphere/bee?style=social&color=white)](https://github.com/ethersphere/bee/stargazers)  
   Swarm client implemented in Go providing censorship-resistant, incentivized, decentralized chunk storage, content addressing, and dApp web hosting for the Ethereum ecosystem.
 
-- **[Tahoe-LAFS](https://github.com/tahoe-lafs/tahoe-lafs)** [![GitHub stars](https://img.shields.io/github/stars/tahoe-lafs/tahoe-lafs?style=social&color=white)](https://github.com/tahoe-lafs/tahoe-lafs/stargazers)  
+- **[Tahoe-LAFS](https://github.com/tahoe-lafs/tahoe-lafs)** [![GitHub_Stars](https://img.shields.io/github/stars/tahoe-lafs/tahoe-lafs?style=social&color=white)](https://github.com/tahoe-lafs/tahoe-lafs/stargazers)  
   Pioneering open-source decentralized, fault-tolerant, cryptographic cloud filesystem based on capability security and the Principle of Least Authority (POLA).
 
-- **[Helia](https://github.com/ipfs/helia)** [![GitHub stars](https://img.shields.io/github/stars/ipfs/helia?style=social&color=white)](https://github.com/ipfs/helia/stargazers)  
+- **[Helia](https://github.com/ipfs/helia)** [![GitHub_Stars](https://img.shields.io/github/stars/ipfs/helia?style=social&color=white)](https://github.com/ipfs/helia/stargazers)  
   Lean, modular open-source JavaScript and TypeScript implementation of IPFS optimized for running native content-addressed storage nodes directly within modern web browsers and edge runtimes.
 
-- **[Arweave](https://github.com/ArweaveTeam/arweave)** [![GitHub stars](https://img.shields.io/github/stars/ArweaveTeam/arweave?style=social&color=white)](https://github.com/ArweaveTeam/arweave/stargazers)  
+- **[Arweave](https://github.com/ArweaveTeam/arweave)** [![GitHub_Stars](https://img.shields.io/github/stars/ArweaveTeam/arweave?style=social&color=white)](https://github.com/ArweaveTeam/arweave/stargazers)  
   Official Erlang node and App Developer Toolkit for the Arweave permanent information storage protocol (Permaweb) utilizing Succinct Proofs of Random Access (SPoRA).
 
-- **[Farcaster Hubs](https://github.com/farcasterxyz/hub-monorepo)** [![GitHub stars](https://img.shields.io/github/stars/farcasterxyz/hub-monorepo?style=social&color=white)](https://github.com/farcasterxyz/hub-monorepo/stargazers)  
+- **[Farcaster Hubs](https://github.com/farcasterxyz/hub-monorepo)** [![GitHub_Stars](https://img.shields.io/github/stars/farcasterxyz/hub-monorepo?style=social&color=white)](https://github.com/farcasterxyz/hub-monorepo/stargazers)  
   Open-source node implementation for Farcaster's sufficiently decentralized social protocol, validating and replicating state and user data over peer-to-peer networks.
 
-- **[Crust Network](https://github.com/crustio/crust)** [![GitHub stars](https://img.shields.io/github/stars/crustio/crust?style=social&color=white)](https://github.com/crustio/crust/stargazers)  
+- **[Crust Network](https://github.com/crustio/crust)** [![GitHub_Stars](https://img.shields.io/github/stars/crustio/crust?style=social&color=white)](https://github.com/crustio/crust/stargazers)  
   Official Substrate-based Rust implementation of the Crust Protocol orchestrating decentralized storage nodes and autonomous storage proof verifications via TEE enclaves.
 
-- **[Status App Core](https://github.com/status-im/status-app)** [![GitHub stars](https://img.shields.io/github/stars/status-im/status-app?style=social&color=white)](https://github.com/status-im/status-app/stargazers)  
+- **[Status App Core](https://github.com/status-im/status-app)** [![GitHub_Stars](https://img.shields.io/github/stars/status-im/status-app?style=social&color=white)](https://github.com/status-im/status-app/stargazers)  
   Decentralized Web3 super-app and communication operating system combining peer-to-peer messaging (Waku), non-custodial crypto wallet, and decentralized Web3 browser.
 
-- **[ao Computer](https://github.com/permaweb/ao)** [![GitHub stars](https://img.shields.io/github/stars/permaweb/ao?style=social&color=white)](https://github.com/permaweb/ao/stargazers)  
+- **[ao Computer](https://github.com/permaweb/ao)** [![GitHub_Stars](https://img.shields.io/github/stars/permaweb/ao?style=social&color=white)](https://github.com/permaweb/ao/stargazers)  
   Hyper-parallel decentralized computing environment running on Arweave, merging smart-contract execution with permanent decentralized data persistence.
 
-- **[metrox-eth/moss](https://github.com/metrox-eth/moss)** [![GitHub stars](https://img.shields.io/github/stars/metrox-eth/moss?style=social&color=white)](https://github.com/metrox-eth/moss/stargazers)  
+- **[metrox-eth/moss](https://github.com/metrox-eth/moss)** [![GitHub_Stars](https://img.shields.io/github/stars/metrox-eth/moss?style=social&color=white)](https://github.com/metrox-eth/moss/stargazers)  
   Open-source Web3 operating system and decentralized workspace project engineered to unify decentralized storage, Web3 identity, and modular applications into a cohesive desktop environment.
 
-- **[Sia `renterd` & `hostd`](https://github.com/SiaFoundation/renterd)** [![GitHub stars](https://img.shields.io/github/stars/SiaFoundation/renterd?style=social&color=white)](https://github.com/SiaFoundation/renterd/stargazers)  
+- **[Sia `renterd` & `hostd`](https://github.com/SiaFoundation/renterd)** [![GitHub_Stars](https://img.shields.io/github/stars/SiaFoundation/renterd?style=social&color=white)](https://github.com/SiaFoundation/renterd/stargazers)  
   Next-generation open-source Sia storage renter and host software written in Go featuring automated contract management and S3-compatible decentralized storage drives.
 
 ---
@@ -192,7 +192,7 @@ Contributions are warmly welcomed! Help make this the most comprehensive and up-
 2. 🌿 **Create a descriptive feature branch** (`git checkout -b add-awesome-tool`).
 3. 📝 **Add or update entries** following existing markdown formatting standards:
    - For SaaS tools: include links, accurate starting prices, exact free tier limits, and valuation/scale data.
-   - For Open-Source projects: provide the GitHub repo link, star badge (`style=social&color=white` linking to stargazers), and an objective architectural description.
+   - For Open-Source projects: provide the GitHub repo link, Stars_Badge (`style=social&color=white` linking to stargazers), and an objective architectural description.
 4. 🚀 **Submit a Pull Request (PR)** with a clear summary of your additions.
 
 ---
