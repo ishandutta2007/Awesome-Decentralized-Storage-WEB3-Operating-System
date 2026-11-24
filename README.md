@@ -44,65 +44,20 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[Pinata](https://pinata.cloud)**  
-
-  Managed IPFS pinning service, dedicated content gateways, and Files API enabling developers to upload, serve, and manage decentralized media and NFT/dApp assets at scale.
-
-
-
-- **[Storj (Distributed Cloud Object Storage)](https://storj.io)**  
-
-  Enterprise S3-compatible decentralized cloud storage platform splitting encrypted, erasure-coded file shards across thousands of globally distributed storage nodes.
-
-
-
-- **[Web3.Storage (Storacha Network)](https://storacha.network)**  
-
-  Decentralized hot-storage and UCAN-authenticated upload platform bridging IPFS content addressing with Filecoin verifiable storage deals.
-
-
-
-- **[4EVERLAND](https://4everland.org)**  
-
-  Web3 cloud computing and decentralized storage aggregator unifying IPFS, Arweave, and Dfinity hosting, S3-compatible buckets, and decentralized frontend deployments.
-
-
-
-- **[Fleek (Fleek Network / Edge Platform)](https://fleek.xyz)**  
-
-  Cloud edge deployment and decentralized hosting platform built on IPFS, Filecoin, and Arweave for permissionless web apps, functions, and storage.
-
-
-
-- **[Filebase](https://filebase.com)**  
-
-  S3-compatible geo-redundant object storage gateway pinning files automatically across IPFS, Storj, and Sia decentralized storage networks through a single API.
-
-
-
-- **[Infura IPFS & QuickNode IPFS](https://infura.io)**  
-
-  Managed enterprise Web3 infrastructure providers offering high-availability IPFS pinning APIs and dedicated content-addressed gateways.
-
-
-
-- **[Lighthouse Storage](https://lighthouse.storage)**  
-
-  Perpetual decentralized file storage service combining IPFS and Filecoin with encryption, token-gated access control, and permanent storage deals.
-
-
-
-- **[Akord & ArDrive](https://ardrive.io)**  
-
-  User-friendly Web3 permanent drive applications built on Arweave offering end-to-end encrypted vaults, pay-once-store-forever archives, and collaborative sharing.
-
-
-
-- **[Crust Cloud](https://crust.network)**  
-
-  Managed Web3 pinning and decentralized storage buckets powered by the Crust Network incentive layer and IPFS nodes.
+| Platform | Description | Pricing (Starting Paid Tier) | Free Tier / Trial Limits | Company Scale (Valuation / Revenue / Funding) |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Infura](https://infura.io)** | Managed enterprise Web3 & IPFS infrastructure suite by Consensys providing high-availability APIs and dedicated content gateways. | $50.00 / month (Developer Tier) | Free forever plan: 3,000,000 credits/day, 500 credits/second rate limit, 1 API key | **$7.0B Valuation** (Consensys Series D; >400k developers) |
+| **[QuickNode](https://quicknode.com)** | High-performance multi-chain Web3 cloud infrastructure offering dedicated IPFS nodes, pinning APIs, and edge gateways. | $49.00 / month (Build Tier) | Free forever plan: 10,000,000 API credits/month, 15 req/sec limit, 1 active endpoint | **$800M Valuation** ($106M total funding; >$15M+ ARR) |
+| **[Pinata](https://pinata.cloud)** | Managed IPFS pinning service, dedicated content gateways, and Files API enabling developers to upload, serve, and manage media/assets. | $20.00 / month (Picnic Tier) | Free forever plan: 1 GB storage, 500 pinned files, 1 dedicated gateway, 10 GB/month bandwidth, 10k requests/month | **$100M Valuation** ($21.5M funding, ~$8.8M ARR) |
+| **[Fleek](https://fleek.xyz)** | Cloud edge deployment and decentralized hosting platform built on IPFS, Filecoin, and Arweave for permissionless web apps, functions, and storage. | $20.00 / month (Pro Tier) | Free forever plan: 500 MB IPFS storage, 100 GB CDN bandwidth, 50,000 API requests, 1M CDN requests/month | **$75M Valuation** ($30M total funding raised) |
+| **[ArDrive](https://ardrive.io)** | User-friendly Web3 permanent drive application built on Arweave offering pay-once-store-forever archives and collaborative sharing. | ~$47.63 / GiB one-time permanent storage fee (Turbo Tier) | Free forever plan: Unlimited uploads for individual files under 105 KiB, unlimited free downloads/sharing | **$25M+ Est. Valuation** ($17.2M Seed funding raised) |
+| **[Storj](https://storj.io)** | Enterprise S3-compatible decentralized cloud storage platform splitting encrypted, erasure-coded file shards across distributed nodes. | $7.00 / TB / month ($0.007/GB + $0.007/GB egress, $5.00/mo account min) | 30-day free trial: 25 GB decentralized storage, 25 GB egress, 2 Object Mount licenses (no credit card required) | **$5.8M Market Cap / Valuation** ($30M historical ICO & funding) |
+| **[Storacha Network (Web3.Storage)](https://storacha.network)** | Decentralized hot-storage and UCAN-authenticated upload platform bridging IPFS content addressing with Filecoin verifiable storage deals. | $5.99 / TB / month (Standard Storage Tier via Fil One) | 30-day free trial: 1 TB decentralized hot storage, free egress & API operations (historical free tier: 5 GB storage) | **$6.5M Total Funding** (Seed led by Protocol Labs PLVS) |
+| **[4EVERLAND](https://4everland.org)** | Web3 cloud computing and decentralized storage aggregator unifying IPFS, Arweave, and Dfinity hosting with S3-compatible buckets. | $8.00 / 100 GB / month (IPFS) / $10.00 / 100 GB bandwidth (Pay-as-you-go) | Free forever plan (Decentralized UID): 5 GB/month IPFS storage, 100 MB permanent Arweave storage, 10 GB bandwidth, 250 build mins/month (or 7-day unconditional trial: 1 GB IPFS) | **$3.5M Total Funding** ($1.5M Seed + $2.0M Private Round) |
+| **[Filebase](https://filebase.com)** | S3-compatible geo-redundant object storage gateway pinning files automatically across IPFS, Storj, and Sia networks through a single API. | $7.50 / month (Pro Tier) | Free forever plan: 5 GB total storage, 500 pinned files, 1 bucket, 10 GB IPFS bandwidth, 100k Class A & 1M Class B API calls | **$3.5M Total Funding** (Seed led by Multicoin Capital & Version One) |
+| **[Akord](https://akord.com)** | Digital vault and permanent storage protocol built on Arweave offering end-to-end encrypted vaults and pay-once-store-forever archives. | ~$9.00 - $33.00 / GB one-time permanent storage fee | Free forever plan: 100 MB - 500 MB permanent blockchain storage with end-to-end encrypted vault access | **$2.3M Total Funding** (Seed led by Maven 11 & D1 Ventures) |
+| **[Lighthouse Storage](https://lighthouse.storage)** | Perpetual decentralized file storage service combining IPFS, Filecoin, and Walrus with encryption, token-gating, and AI persistent memory. | $12.00 / month (Lite Tier) | Free forever plan: 5 GB IPFS hot storage, 5 GB bandwidth, 100 MB Walrus storage, 10,000 AI memories | **$1.6M Total Funding** (Backed by Protocol Labs, NGC, Walrus Foundation) |
+| **[Crust Cloud](https://crust.network)** | Managed Web3 pinning and decentralized storage buckets powered by Crust Network incentive layer and IPFS nodes. | $0.008 / GB / month or via $CRU token staking/DSM orders | Free forever plan (Crust Files & Gateways): Unlimited storage with 40 MB max individual file size limit & public IPFS gateways | **~$130K Market Cap / Valuation** ($4.17M total ICO/token funding raised) |
 
 
 
